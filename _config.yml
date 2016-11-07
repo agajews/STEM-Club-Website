@@ -1,0 +1,23 @@
+# Dependencies
+markdown: kramdown
+
+# Permalinks
+permalink: pretty
+
+# Pages
+include:
+  - _pages
+
+# Setup
+title: 'STEM Day!'
+tagline: 'STEM Day!'
+description: 'Insert really awesome multi-sentence description here.'
+url: http://stemday.ucls.uchicago.edu
+baseurl: /
+
+author:
+  name: 'The STEM Club Team'
+  url: http://stemday.ucls.uchicago.edu
+  
+paginate: 5
+paginate_path: "/updates/page:num/"
