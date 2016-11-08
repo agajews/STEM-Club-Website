@@ -2,6 +2,7 @@
 layout: page
 type: page
 title: Schedule
+permalink: schedule
 ---
 
 **Period 1:**
