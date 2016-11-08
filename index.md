@@ -12,4 +12,4 @@ The first Discovery Day was in April of 2016, with the format of workshops in cl
 
 This year, we (STEM Discovery Club) has bigger and better aspirations of having workshops in 40 different classrooms throughout the high school, in addition to inviting a scientist from NASA”s Jet Propulsion Laboratory! Discovery Day is on Thursday November 10th, we hope you have fun and learn something new!
 
-Read more about STEM Day's history on the [history page](/history).
+Read more about STEM Day's history on the [history page]({{ site.baseurl }}/history).
