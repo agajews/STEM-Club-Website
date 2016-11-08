@@ -2,6 +2,7 @@
 layout: page
 type: page
 title: History
+permalink: history
 ---
 
 I came up with the idea of Discovery Day when I experienced Artsfest my freshman year, and thought it would be awesome to have a similar outreach program for STEM fields.  I grew up going to math museums, hearing about protein research, and staying updated on computer science developments.  So naturally, I knew there were applications of the biology, the chemistry, the calculus we were learning in school.  I wanted to share my knowledge, and provide a different way for students to learn more.  I started Lab’s first STEM club with the mission of Discovery Day: a day about interdisciplinary and applicable STEM.

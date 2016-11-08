@@ -11,7 +11,7 @@ include:
 # Setup
 title: 'STEM Day!'
 tagline: 'STEM Day!'
-description: 'Insert really awesome multi-sentence description here.'
+description: 'Science, Technology, Engineering and Math can be fun (and relevant)!'
 url: http://stemday.ucls.uchicago.edu
 baseurl: /
 
