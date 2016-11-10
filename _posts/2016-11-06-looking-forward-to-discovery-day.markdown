@@ -12,4 +12,4 @@ Students will attend their usual classes, in addition to the Discovery Day Assem
  
 We have been working really hard to organize this, and hope you all find the workshops fun and engaging!
  
-- Discovery Day Committee
+-Discovery Day Committee
