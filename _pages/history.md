@@ -14,6 +14,6 @@ Part of Discovery day is to expose people to the applications of what they are l
 The first Discovery Day was in April of 2016, with the format of workshops in classrooms throughout the day, in addition to the Discovery Day speaker, Dr. Thomas Gajewski, who talked about immunology as a cure to cancer at the assembly. 
 
 
-This year, we (STEM Discovery Club) has bigger and better aspirations of having workshops in 40 different classrooms throughout the high school, in addition to inviting a scientist from NASA”s Jet Propulsion Laboratory!  Discovery Day is on **Thursday November 10th**, we hope you have fun and learn something new!
+This year, we (STEM Discovery Club) have bigger and better aspirations of having workshops in 40 different classrooms throughout the high school, in addition to inviting a scientist from NASA”s Jet Propulsion Laboratory!  Discovery Day is on **Thursday November 10th**, we hope you have fun and learn something new!
 
 -Athena Chien
